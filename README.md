@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Nisanur Eser
 
-<!--
-**Nisanureser/Nisanureser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Frontend & Backend Developer  
+🚀 Interested in Web, Mobile & AI Technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- I develop modern, user-focused web applications
+- Experienced with React, Next.js, and .NET technologies
+- Interested in AI-supported systems and mobile app development
+- Love learning new technologies and improving myself
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Sass • Flutter
+
+### Backend & Database
+C# / .NET • PHP • MySQL
+
+### Tools & Platforms
+Git & GitHub • Jira • Postman • WordPress • Figma
+
+---
+
+## 📌 Featured Projects
+🔹 Resume App – Personal portfolio website  
+🔹 AI-powered Gesture-based Social Media App  
+🔹 Admin Panel Portfolio (.NET MVC)
+
+---
+
+## 📫 Contact Me
+- 💼 LinkedIn: https://linkedin.com/in/USERNAME
+- 📧 Email: yourmail@gmail.com
+
