@@ -55,16 +55,6 @@ Flutter-based mobile app using gesture recognition with AI support
 Dynamic portfolio system with admin panel and database integration  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nisanureser&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisanureser&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
 ## 📫 Contact Me
 
 📍 Portfolio: **https://nisanuresercv.netlify.app/**  
