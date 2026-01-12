@@ -42,24 +42,11 @@
 </p>
 
 ---
-
-## 📌 Featured Projects
-
-🚀 **Resume App**  
-Personal portfolio website designed to present skills and experience clearly  
-
-🤖 **AI-powered Gesture-based Social Media App**  
-Flutter-based mobile app using gesture recognition with AI support  
-
-🛠 **Admin Panel Portfolio (.NET MVC)**  
-Dynamic portfolio system with admin panel and database integration  
-
----
 ## 📫 Contact Me
 
 📍 Portfolio: **https://nisanuresercv.netlify.app/**  
-💼 LinkedIn: **linkedin.com/in/YOUR_LINK**  
-📧 Email: **yourmail@gmail.com**
+💼 LinkedIn: **https://www.linkedin.com/in/nisanur-eser-0206aa272/**  
+📧 Email: **Nisa2415@hotmail.com**
 
 ---
 
