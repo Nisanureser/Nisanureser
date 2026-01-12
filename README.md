@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Nisanur Eser</h1>
+<h1 align="center">👋 Hi I'm Nisanur Eser</h1>
 <h3 align="center">Computer Engineering Student | Frontend & Backend Developer</h3>
 
 <p align="center">
@@ -23,8 +23,6 @@
 📚 Always learning and improving my technical skills  
 
 ---
-
-## 🛠️ Tech Stack
 
 ### 🎨 Frontend
 <p>
