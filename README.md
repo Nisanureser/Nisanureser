@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi I'm Nisanur Eser</h1>
-<h3 align="center">Computer Engineering Student | Frontend & Backend Developer</h3>
+<h3 align="center">Computer Engineering | Frontend & Backend Developer</h3>
 
 <p align="center">
   <a href="https://nisanuresercv.netlify.app/" target="_blank">
